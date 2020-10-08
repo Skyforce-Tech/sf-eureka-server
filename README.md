@@ -3,7 +3,9 @@ The eureka server is deployed in heroku. Any user can register their microservic
 
 Eureka Dashboard Url: https://sf-eurekaserver.herokuapp.com/
 <br>
-Eureka Registration Url : https://sf-eurekaserver.herokuapp.com/eureka
+Find your applications registered here while testing.
 <br>
 
-Use the above registration url to register your microservices.
+Eureka Registration Url : https://sf-eurekaserver.herokuapp.com/eureka
+<br>
+Use the registration url to register your microservices.
