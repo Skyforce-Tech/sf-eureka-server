@@ -1,5 +1,5 @@
 # sf-eureka-server
-The eureka server is deployed in heroku. Any user can register their microservice to this eureka server to gain spring cloud benifits.
+The eureka server is deployed in heroku. Any user can register their microservices to this eureka server to gain spring cloud benifits.
 
 Eureka Url: https://sf-eurekaserver.herokuapp.com/
 <br>
